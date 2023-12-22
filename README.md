@@ -1,5 +1,5 @@
 <div align=center>
-### 안녕하세요
+언제나 배움의 자세로 임하는 김도현입니다.
 </div>
 
 <div align=center>
