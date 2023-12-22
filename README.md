@@ -1,12 +1,6 @@
-<div align=center>
-언제나 배움의 자세로 임하는 김도현입니다.
-</div>
 
-<div align=center>
+### 배움의 자세로 임하는 김도현입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhyeon1320&count_bg=%2312E5F0&title_bg=%230B0093&icon=&icon_color=%23AE5454&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 <!--
 **dhyeon1320/dhyeon1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
