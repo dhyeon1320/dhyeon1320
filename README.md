@@ -1,7 +1,7 @@
 
 ### 배움의 자세로 데이터 전문가를 꿈꾸는 김도현입니다.
 
-### 🛠 기술 스택
+### 🛠 기술 스택 🛠
 
 
 <p align="center">
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 </div>
 </br>
-
 
 <h3>협업 툴</h3>
 <div>
