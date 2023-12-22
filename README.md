@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div aling-center>
+<div align-center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2312E5F0&title_bg=%230B0093&icon=&icon_color=%23AE5454&title=hits&edge_flat=false)]
 
 </div>
