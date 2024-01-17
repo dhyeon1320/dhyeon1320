@@ -21,6 +21,15 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp
 </div>
+</br>
+
+<h3>FrontEnd</h3>
+<div>
+  <img src="https://img.shields.io/badge/sencha-#86BC40?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/css3-#1572B6?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp
+</div>
 </p> 
 
 <br><br>
