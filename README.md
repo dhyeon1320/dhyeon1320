@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<h3>DataAnalysis</h3>
+<h3>Data Analysis</h3>
 <div>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> &nbsp
